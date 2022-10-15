@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	cout<<"I'm master haha";
+	cout<<"I'm master 2";
 	return 0;
 }
 
